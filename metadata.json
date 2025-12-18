@@ -1,0 +1,7 @@
+{
+  "name": "RoyalCart",
+  "description": "An Instamart-style grocery delivery app with AI-powered recipe generation and smart shopping lists.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
